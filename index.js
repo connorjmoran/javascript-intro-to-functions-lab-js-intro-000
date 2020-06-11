@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
   return `I can't hear you!`;
   case string.toUpperCase() === string:
   return `YES INDEED!`;
-  case string === `I love you, Grandma.`:
+  default:
   return `I love you, too.`;};
 }
