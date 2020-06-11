@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
   return `YES INDEED!`;
   default:
   return `I love you, too.`;};
-} 
+}
 
 /* function sayHiToGrandma(string) {
   if (string.toLowerCase() === string)
